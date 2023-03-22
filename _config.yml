@@ -20,7 +20,7 @@ author: Arthur Ross
 ###############################################
 
 navbar-links:
-  About Me: "Over"
+  About Me: "About"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
