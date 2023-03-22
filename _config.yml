@@ -35,7 +35,7 @@ navbar-links:
 avatar: "/assets/img/rosscoinlogo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+ round-avatar: false°
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -50,11 +50,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "arthurross@live.nl"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: arthur.ross.5264
   github: arthurrross88/rosscoin
   twitter: arthurross
-  youtube: c/arthurross6989
+# youtube: c/arthurross6989
 #  medium: Arthur Ross
 #  reddit: Arthur Ross
 #  linkedin: ArthurRoss
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -232,7 +232,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Netherlands/Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year:month:day:title/
