@@ -21,6 +21,7 @@ author: Arthur Ross
 
 navbar-links:
   About Me: "About"
+  Invest: "Invest"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
