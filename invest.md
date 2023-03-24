@@ -13,6 +13,8 @@ In Zambia we're creating a sports community. Our goal is to first of all erupt r
   <img src="{% post.feature_img %}" />
 {% endfor %}
 
+{% include image.html file="jekyll.png" url="https://en.wikipedia.org/wiki/File:Flag_of_Zambia.svg" alt="Jekyll" caption="Zambian Flag" %}
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4X040HH693"></script>
