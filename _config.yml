@@ -24,7 +24,7 @@ favicon: "/assets/img/favicon.png"
 ###############################################
 
 navbar-links:
-  About Me: "About"
+  About: "About"
   Invest: "Invest"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
