@@ -58,7 +58,7 @@
     {% for css in layout.common-css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">
       <link rel="shortcut icon" type="image/image" href="/favicon.png">
-      <link rel="icon" href="{{ "./favicon.png" | relative_url }}" type="image/x-icon">
+      <link rel="icon" href="{{ "favicon.png" | relative_url }}" type="image/x-icon">
 
     {% endfor %}
   {% endif %}
