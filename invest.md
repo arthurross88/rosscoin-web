@@ -10,7 +10,7 @@ Become an investor!
 In Zambia we're creating a sports community. Our goal is to first of all erupt rugby poles. We need libraries, hospitals, schools and more!
 
 {% for post in site.posts %}
-  <img src="{% post.feature_img %}" />
+  <img src="{% post.featured_img %}" />
 {% endfor %}
 
 
