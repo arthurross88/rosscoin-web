@@ -2,7 +2,7 @@
 layout: page
 title: Invest
 subtitle: Invest in my Zambian sports community
-featured_img: /img/posts/your-post-title/featured.png
+featured_img: /assets/img/Flag_of_Zambia.png
 ---
 
 Become an investor!
@@ -10,7 +10,7 @@ Become an investor!
 In Zambia we're creating a sports community. Our goal is to first of all erupt rugby poles. We need libraries, hospitals, schools and more!
 
 {% for post in site.posts %}
-  <img src="{assets/img/Flag_of_Zambia.png}" />
+  <img src="{% post.feature_img %}" />
 {% endfor %}
 
 
