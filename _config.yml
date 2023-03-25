@@ -219,7 +219,7 @@ category-id: DIC_kwDOJMaL1c4CVDJF # ID of your category, retrieve this info from
 mapping: pathname
 reactions-enabled: true
 emit-metadata: 0
-theme: light
+theme: preferred_color_scheme
 
 ################
 # --- Misc --- #
