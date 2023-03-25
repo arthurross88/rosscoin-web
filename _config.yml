@@ -210,7 +210,7 @@ gtag: "G-4X040HH693"
 # (2) Install the giscus app in your repository (details at https://giscus.app),
 # (3) Fill in *all* the parameters below 
 # See more details about giscus and each of the following parameters at https://giscus.app
-#giscus:
+giscus:
 hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
 repository: arthurross88/rosscoin-web # GitHub username/repository eg. "daattali/beautiful-jekyll"
 repository-id: R_kgDOJMaL1Q # ID of your repository, retrieve this info from https://giscus.app
