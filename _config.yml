@@ -217,9 +217,9 @@ repository-id: R_kgDOJMaL1Q # ID of your repository, retrieve this info from htt
 category: General # Category name of your GitHub Discussion posts
 category-id: DIC_kwDOJMaL1c4CVDJF # ID of your category, retrieve this info from https://giscus.app
 mapping: pathname
-reactions-enabled: true
+reactions-enabled: 1
 emit-metadata: 0
-theme: light_high_contrast
+theme: transparent_dark
 
 ################
 # --- Misc --- #
