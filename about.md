@@ -5,7 +5,7 @@ subtitle: What it's about
 ---
 
 We started this project back in 2017, when the cryto hype was booming, but we decided to wait until this hype was over in order to become a stable coin. For we believe that Zambia is worth all our efforts, especially when it comes to sport. 
-Still it is incredibly important to fight the corruption and poaching in Zambia, therefore we are planning on making an agreement with all its surrounding countries.
+Still it is incredibly important to fight the corruption and poaching in Zambia, therefore we are planning on making an agreement with its surrounding countries.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4X040HH693"></script>
