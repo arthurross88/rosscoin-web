@@ -7,7 +7,7 @@ subtitle: Invest in my Zambian sports community
 Become an investor!
 
 In Zambia we're creating a sports community. Our goal is to first of all erupt rugby poles. We need libraries, hospitals, schools and more!
-Our intent is for Rosscoin to rapidly grow to 1600 euros, but the value will start at 500 euro per coin. Easily tradeable for Ethereum.
+Our intent is for Rosscoin to rapidly grow to 1600 euros, easily tradeable for Ethereum.
 It will also be possible to mine these coins, for limited time only. 200000 will be mineable, check out our [whitepaper](https://arthur-ross.gitbook.io/rosscoin-1/).
 
 
@@ -20,5 +20,5 @@ It will also be possible to mine these coins, for limited time only. 200000 will
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-4X040HH693');
+  gtag('config', 'G-BFVN1KW3JP');
 </script>

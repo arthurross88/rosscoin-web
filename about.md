@@ -8,11 +8,11 @@ We started this project back in 2017, when the cryto hype was booming, but we de
 Still it is incredibly important to fight the corruption and poaching in Zambia, therefore we are planning on making an agreement with its surrounding countries.
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4X040HH693"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E2FX4MM2DV"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-4X040HH693');
+  gtag('config', 'G-E2FX4MM2DV');
 </script>
