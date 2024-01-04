@@ -6,3 +6,9 @@ gemspec
 
 gem 'jekyll-seo-tag'
 
+gem 'webrick'
+
+# Gemfile
+source 'https://rubygems.org'
+gem 'sinatra'
+
